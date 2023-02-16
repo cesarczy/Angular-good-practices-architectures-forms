@@ -7,6 +7,14 @@ https://cursos.alura.com.br/course/angular-boas-praticas-arquiteturas-formulario
 
 Projeto: gatitobook
 
+>cd /api
+
+>npm i
+
+>npm start
+
+>cd /gatitobook
+
 >ng serve
 
 login: cesar
@@ -57,6 +65,14 @@ Angular: best practices in architectures and forms:
 https://cursos.alura.com.br/course/angular-boas-praticas-arquiteturas-formularios
 
 Project: gatitobook
+
+>cd /api
+
+>npm i
+
+>npm start
+
+>cd /gatitobook
 
 >ng serve
 
